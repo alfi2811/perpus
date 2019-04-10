@@ -1,0 +1,41 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: "SF UI Text Light";
+}
+
+.fontku {
+	font-family: 'Lucida Console', Monaco, monospace, sans-serif;
+	color: black;
+}
+
+.container-ku {
+	padding: 25px;
+	background-color: antiquewhite;
+	min-height: 100vh;
+}
+
+.row-1 {
+	margin: 0;
+}
+
+
+
+.jarak {
+	padding: 15px;
+	font-size: 60px;
+	background-color: aquamarine;
+}
+
+.jarak-cetak {
+	margin-top: 40px;
+}
+
+.gede {
+	text-transform: uppercase;
+}
+
+.cetak1 {
+	padding: 20px;
+	background-color: white;
+}
